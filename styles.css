@@ -82,6 +82,17 @@ td {
     padding: 0.5rem;
 }
 
+.tag:hover {
+    background-color: #008080BB;
+}
+
+.tags>a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
 .person>img {
     object-fit: cover;
     border-color: #343434;
