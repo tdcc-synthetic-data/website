@@ -1,0 +1,111 @@
+/* Ubuntu Regular */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-R.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Ubuntu Italic */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-RI.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Ubuntu Bold */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-B.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Ubuntu Bold Italic */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-BI.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Ubuntu Light */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-L.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Ubuntu Light Italic */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-LI.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Ubuntu Medium */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-M.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Ubuntu Medium Italic */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-MI.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Ubuntu Thin */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('assets/ubuntu/Ubuntu-Th.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* Ubuntu Condensed (assuming it's a different style, not weight) */
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  src: url('assets/ubuntu/Ubuntu-C.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Ubuntu Mono Regular */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  src: url('assets/ubuntu/UbuntuMono-R.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Ubuntu Mono Italic */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  src: url('assets/ubuntu/UbuntuMono-RI.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Ubuntu Mono Bold */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  src: url('assets/ubuntu/UbuntuMono-B.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Ubuntu Mono Bold Italic */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  src: url('assets/ubuntu/UbuntuMono-BI.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
