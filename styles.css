@@ -12,13 +12,16 @@ body {
     margin-right: auto;
 }
 
-h1,
-h2 {
+h1 {
     text-align: center;
+    margin-bottom: 0.5rem;
+    font-size: 48px;
 }
 
 h2 {
-    margin-top: 3rem;
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 36px;
 }
 
 .content {
@@ -28,6 +31,13 @@ h2 {
     text-align: center;
 }
 
+.subtitle {
+    font-size: 24px;
+    color: #565656;
+    font-weight: 600;
+    margin-top: 0;
+}
+
 table,
 th,
 td {
@@ -35,6 +45,11 @@ td {
     border-collapse: collapse;
     padding: .5rem;
     text-align: left;
+}
+
+
+tr:target {
+    background-color: #da8a224f;
 }
 
 
@@ -112,6 +127,7 @@ td {
     gap: 3rem;
     width: 100%;
     justify-content: center;
+    align-items: baseline;
 }
 
 
