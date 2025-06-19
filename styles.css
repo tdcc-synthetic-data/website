@@ -106,8 +106,6 @@ tr:target {
     color: inherit;
 }
 
-
-
 .person>img {
     object-fit: cover;
     border-color: #343434;
