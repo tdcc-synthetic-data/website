@@ -133,6 +133,7 @@ tr:target {
 
 .partners>img {
     height: 60px;
+    max-width: 100%;
 }
 
 footer {
