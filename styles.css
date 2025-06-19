@@ -131,7 +131,7 @@ tr:target {
 }
 
 
-.partners>img {
+.partners>a>img {
     height: 60px;
     max-width: 100%;
 }
@@ -143,4 +143,9 @@ footer {
     margin-top: 5rem;
     font-size: small;
     text-align: right;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: .5rem;
+    align-items: flex-start;
+    font-weight: 300;
 }
