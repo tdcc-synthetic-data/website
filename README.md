@@ -3,4 +3,5 @@
 
 Website for the TDCC SSH challenge project "Synthetic data: leveraging the potential of sensitive data in SSH research". This website is built using plain `html` and `css`, no frameworks to stay minimal and very compatible.
 
-> [!WARNING] Images in this repository do not fall under the MIT license. The persons depicted retain full rights to their images and their use has been approved only for the purpose of the present website. Only the code falls under the MIT license.
+> [!WARNING]
+> Images in this repository do not fall under the MIT license. The persons depicted retain full rights to their images and their use has been approved only for the purpose of the present website. Only the code falls under the MIT license.
