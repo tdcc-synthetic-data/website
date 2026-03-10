@@ -116,6 +116,10 @@ tr:target {
     height: 150px;
 }
 
+.former {
+    opacity: 0.5;
+}
+
 
 .partners {
     display: flex;
